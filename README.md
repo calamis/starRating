@@ -13,3 +13,7 @@ Clone the repo and run `yarn install`
 ## Start
 
 After the successfull installation of the packages: `yarn start`
+
+## Star Rating Component
+
+This is an exercise app from chapter 6 of learning react 2nd edition
