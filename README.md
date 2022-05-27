@@ -16,4 +16,4 @@ After the successfull installation of the packages: `yarn start`
 
 ## Star Rating Component
 
-This is an exercise app from chapter 6 of learning react 2nd edition
+This is an exercise app from chapter 6 of [learning react 2nd edition](https://learning.oreilly.com/library/view/learning-react-2nd/9781492051718/)
